@@ -1,4 +1,4 @@
-<VAST xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" version="3.0">
+<VAST xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" version="2.0">
 <Ad id="4574100-3038460">
 <InLine>
 <AdSystem>FT</AdSystem>
@@ -12,7 +12,7 @@
 </Impression>
 <Creatives>
 <Creative sequence="1" AdID="3038460-0" id="4574100-3038460-0">
-<Linear>
+<Linear skipoffset="00:00:15">
 <Duration>00:00:30</Duration>
 <TrackingEvents>
 <Tracking event="start">
