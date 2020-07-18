@@ -1,0 +1,61 @@
+<VAST xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" version="2.0">
+<Ad id="4574100-3038460">
+<InLine>
+<AdSystem>FT</AdSystem>
+<AdTitle>Flashtalking vast template 2.0</AdTitle>
+<Description>2020-06-16 11:46:26</Description>
+<Survey>
+<![CDATA[ https://j.adlooxtracking.com/ads/js/tfav_adl_422.js#platform=19&scriptname=adl_422&tagid=804&typejs=tvaf&fwtype=1&creatype=2&targetelt=&custom2area=0&custom2sec=0&id11=display&id12=$ADLOOX_WEBSITE&id1=[noCachebuster]4574100&id2=120094&id3=3038460&id4=3431&id5=[IMPRESSIONID]&id6=8881 ]]>
+</Survey>
+<Impression id="ft_vast_i">
+<![CDATA[ https://servedby.flashtalking.com/imp/1/120094;4574100;201;gifimpid;MailOnline;QuizPreRoll636x538/?ft_impID=46E005D9-C7F7-B413-4886-C0E578C9774B&ft_custom=&ft_section=&ft_creative=3038460&ft_configuration=0&cachebuster=1960279273 ]]>
+</Impression>
+<Creatives>
+<Creative sequence="1" AdID="3038460-0" id="4574100-3038460-0">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-13-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-14-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-15-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-16-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-17-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-338-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-38-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://stat.flashtalking.com/reportV3/ft.stat?178705287-4574100;3038460;0-313-0-4582460942AB06-1960279273 ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://servedby.flashtalking.com/click/1/120094;4574100;3038460;211;0/?random=1960279273&ft_width=636&ft_height=538&ft_impID=46E005D9-C7F7-B413-4886-C0E578C9774B&ft_custom=&ft_section=&url=https://www.itv.com/hub/quiz/2a7854?utm_source=display_mmm&utm_medium=Pre_Roll&utm_campaign=lvn_quiz&utm_term=&utm_content=Watch_Now ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="391" width="636" height="358">
+<![CDATA[ https://cdn.flashtalking.com/120524/Quiz_PreRoll_Hub_v1_636x358.mp4 ]]>
+</MediaFile>
+<MediaFile id="2" delivery="progressive" type="video/webm" bitrate="391" width="636" height="358">
+<![CDATA[ https://cdn.flashtalking.com/120524/Quiz_PreRoll_Hub_v1_636x358.webm ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
