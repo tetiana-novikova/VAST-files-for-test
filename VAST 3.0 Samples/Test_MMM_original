@@ -1,4 +1,4 @@
-<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="4.0">
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
 <Ad id="471869024">
 <InLine>
 <AdSystem>DCM</AdSystem>
@@ -16,7 +16,7 @@
 <Creative id="134947458" AdID="134947458-1" sequence="1">
 <UniversalAdId idRegistry="GDCM" idValue="134947458-1">134947458-1</UniversalAdId>
 <Linear>
-<Duration>00:00:24</Duration>
+<Duration>00:00:13</Duration>
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[ https://ade.googlesyndication.com/ddm/activity/dc_oe=ChMI5JWswNPH7AIVSeKyCh3qjQ6CEAAYACCCxaxA;met=1;ecn1=1;etm1=0;eid1=11; ]]>
@@ -79,9 +79,6 @@
 <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" bitrate="4044" scalable="false" maintainAspectRatio="false">
 <![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2dc05ff821303ff0/itag/37/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3739275431/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/4D1947841D6BEE5EA8516FBF1366CA2957C3B91C.53AAE95F60E9BF80A33AF20FF3C2C95929839036/key/ck2/file/file.mp4 ]]>
 </MediaFile>
-<MediaFile delivery="progressive" width="854" height="480" type="video/mp4" bitrate="710" scalable="false" maintainAspectRatio="false">
-<![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2dc05ff821303ff0/itag/59/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3739275413/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/7CCBFEBF9A2CEE1DC1EFBC6C2D52A4A64E69C534.2D7FE75AAFB88FB8BD65C371ADDFBF928AF2A6F5/key/ck2/file/file.mp4 ]]>
-</MediaFile>
 <MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="1000" scalable="false" maintainAspectRatio="false">
 <![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2dc05ff821303ff0/itag/343/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3739275417/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/173F3D805C8BE598F945E21D059E8A244A0B1A27.77E248E06B074EC33FBF81CF95509A498E5A765F/key/ck2/file/file.mp4 ]]>
 </MediaFile>
@@ -91,7 +88,7 @@
 <MediaFile delivery="progressive" width="640" height="360" type="video/mp4" bitrate="299" scalable="false" maintainAspectRatio="false">
 <![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2dc05ff821303ff0/itag/345/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3739275418/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/18CDA9E4B6FACC514CC030F6DB988B8D4F98F65A.3F6F63EED7945B83B12DA0EB213A89042B5586C6/key/ck2/file/file.mp4 ]]>
 </MediaFile>
-<MediaFile delivery="progressive" width="720" height="406" type="video/mp4" bitrate="486" scalable="false" maintainAspectRatio="false">
+<MediaFile delivery="progressive" width="720" height="405" type="video/mp4" bitrate="486" scalable="false" maintainAspectRatio="false">
 <![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2dc05ff821303ff0/itag/346/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3739275405/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/21DE97E8AF5211EE0A1C2DD260432662373D7B96.75EB494D55622F36CC045294D125871EE316A95C/key/ck2/file/file.mp4 ]]>
 </MediaFile>
 <MediaFile delivery="progressive" width="1024" height="576" type="video/mp4" bitrate="848" scalable="false" maintainAspectRatio="false">
@@ -100,7 +97,7 @@
 <MediaFile delivery="progressive" width="640" height="360" type="video/webm" bitrate="528" scalable="false" maintainAspectRatio="false">
 <![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2dc05ff821303ff0/itag/43/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3739275419/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/B7B18121FF6E2F6BFAE65368E68CD681D5594B8A.2FAEE6DC160D9095E3148DC872DC5F79A25F7FDB/key/ck2/file/file.webm ]]>
 </MediaFile>
-<MediaFile delivery="progressive" width="854" height="480" type="video/webm" bitrate="643" scalable="false" maintainAspectRatio="false">
+<MediaFile delivery="progressive" width="640" height="360" type="video/webm" bitrate="643" scalable="false" maintainAspectRatio="false">
 <![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2dc05ff821303ff0/itag/44/source/doubleclick_dmm/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3739275417/sparams/id,itag,source,ctier,acao,ip,ipbits,expire/signature/66982F3682DDD0656469DDB7B90C86854F351400.5E35E017B2C48C36ECB207438B86B0B034B97C4C/key/ck2/file/file.webm ]]>
 </MediaFile>
 <MediaFile delivery="progressive" width="1280" height="720" type="video/webm" bitrate="1551" scalable="false" maintainAspectRatio="false">
