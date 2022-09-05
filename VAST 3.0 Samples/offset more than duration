@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+    <Ad id="1111111">
+        <InLine>
+            <AdSystem>Exoclick</AdSystem>
+            <AdTitle/>
+            <Impression id="exotr">
+                <![CDATA[https://syndication.myadserver.com/vregister.php?a=vimp&tracking_event=impression&idzone=22222&data=abcd]]></Impression>
+            <Error>
+                <![CDATA[https://syndication.myadserver.com/vregister.php?a=vview&errorcode=[ERRORCODE]&idzone=22222]]></Error>
+            <Creatives>
+                <Creative sequence="1" id="12345">
+                    <Linear skipoffset="00:00:25">
+                        <Duration>00:00:20.501</Duration>
+                        <TrackingEvents>
+                            <Tracking id="prog_1" event="progress" offset="00:00:10.000">
+                                <![CDATA[https://syndication.myadserver.com/vregister.php?a=vview&tracking_event=progress&progress=00:00:10.000&idzone=22222&data=abcd]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://syndication.myadserver.com/click.php?data=abcd]]></ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4">
+                                <![CDATA[https://static.myadserver.com/library/12345/myvideo.mp4]]></MediaFile>
+                        </MediaFiles>
+                        <Icons>
+                            <Icon>
+                                <IconClicks>
+                                    <IconClickThrough>exoclick.com</IconClickThrough>
+                                </IconClicks>
+                            </Icon>
+                        </Icons>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Extensions>
+                <Extension>
+                    <TitleCTA>
+                        <MobileText>View More</MobileText>
+                        <PCText>View More</PCText>
+                        <Link><![CDATA[]]></Link>
+                        <Tracking><![CDATA[https://syndication.myadserver.com/click.php?data=abcd]]></Tracking>
+                    </TitleCTA>
+                </Extension>
+            </Extensions>
+        </InLine>
+    </Ad>
+</VAST>
