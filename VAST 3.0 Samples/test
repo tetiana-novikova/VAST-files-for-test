@@ -1,0 +1,309 @@
+<VAST version="3.0">
+<Ad id="16b2kr">
+<InLine>
+<AdSystem>Innovid Ads</AdSystem>
+<AdTitle>
+<![CDATA[ US-62220 - Sampling '22 Update ]]>
+</AdTitle>
+<Error>
+<![CDATA[ https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=d46d07c0-aaca-4cc6-a498-ab5f71084195&el=https%3A%2F%2Frtr.innovid.com%2Fr1.61f31e28d0a111.58236472%3Bcb%3D844301210&ea=error&cm114=1&cm115=28&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=2&cd170=118&cd188=nyc1&cd189=droplet&cd190=13672553&cd191=133869&cd192=6210&cd193=2764310&cd194=4534&cd196=1&cd141=7&cd142=%5BTIMESTAMP%5D&cd143=[TIMESTAMP]&cd10=[ERRORCODE]&z=[CACHEBUSTING]&redir=https://tpsc-video-ue.doubleverify.com/visit.jpg?epu=https%3A%2F%2Fs.innovid.com%2F1x1.gif%3Fproject_hash%3D1gm0ht%26client_id%3D4534%26video_id%3D902260%26channel_id%3D2752469%26publisher_id%3D6210%26placement_tag_id%3D0%26project_state%3D2%26r%3D1657291945967%26placement_hash%3D16b2kr%26action%3Derror%26event_id%3Dvast_error%26event_value%3D[ERRORCODE]%26ivc_exdata%3Div_geo_dma%253D650%2526iv_geo_country%253DUS%2526iv_geo_city%253DRingwood%2526iv_geo_state%253DOK%2526iv_geo_zip%253D73768%2526iv_geo_lat%253D36.3731%2526iv_geo_lon%253D-98.274&dvp_epu=1&ctx=818052&cmp=DV024064&sid=1234&plc=1234&advid=818053&crt=vastError&vasttrkevt=impression&dvp_ctx=13672553&dvp_cmp=133869&dvp_sid=6210&dvp_plc=2764310&dvp_advid=4534&dvp_crt=1h5n5l&tagtype=video&adsrv=118&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195&dvtagver=dvot_0.8.111_7342c59&dvp_zjsver=0.21.17&apifw=7&gdpr_consent=%24%7BGDPR_CONSENT_755%7D&vstvr=2.0-i&essd=[SERVERSIDE]&dvp_media=1&dvp_psf=0&verr=[ERRORCODE] ]]>
+</Error>
+<Impression>
+<![CDATA[ https://ipv6-beacon.deepintent.com/impression?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&wp=30.051043 ]]>
+</Impression>
+<Impression id="2603232114">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayStarted&adId=2603232114&viewKey=1657291945770056-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271378&exAdId=3301202_126451_10406_54248&impId=1&cb=4755256&seatId=10406&ibpiv=bf14b2e6a99ba3862103819e9f43e804&ibp=5b48bd2f9315fdd591dad71bab0e4f30983b78b03dad7a342b3a5043a7b9cb73f9ef07b0a905b8980678eec99d4c2ba4847be6d70b02b9131721182e91c1517cf0609912339ac4a09426b51b8c575325dbb7fcd0d118c0f3846d113b1e343ddabcde649d2834e3d13cc657fa4be56c4f2a161630bb152e0e4543f16c481aa2fa7b313a631b87b1dddc6e28a43d2821cc&deviceIfa=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&campaignId=2601063442&rootViewKey=1657291945770046-297& ]]>
+</Impression>
+<Impression id="3rdparty-2603232114-0">
+<![CDATA[ https://dsa.moatads.com/pixel.gif?e=0&g=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=FREEWHEEL_SSP_OTT1&t=1657291945793&de=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&vz=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&d=123%3A338913%3A25787938%3A31271378&bo=2601063442&bd={dealid}&zMoatSDH=15&oa=74519&zMoatDevice={deviceid}&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&dMoatAdCount=[ADCOUNT]&dMoatServerSide=[SERVERSIDE]&dMoatServerUA=[SERVERUA]&rav=ROKU_ADS_APP_VERSION&rlv=ROKU_ADS_LIB_VERSION&rci=ROKU_ADS_CONTENT_ID&rua=ROKU_ADS_USER_AGENT&rdm=ROKU_ADS_DEVICE_MODEL&cs=0 ]]>
+</Impression>
+<Impression id="3rdparty-2603232114-1">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=0&g=0&ac=1&bq=7&dz=1&f=0&gh=1&dh=0&hc=1&i=FREEWHEEL_SSP_OTT1&t=1657291945793&de=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&vz=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&d=123%3A338913%3A25787938%3A31271378&bo=2601063442&bd={dealid}&zMoatSDH=15&oa=74519&zMoatDevice={deviceid}&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Impression>
+<Impression id="dmp-2603232114-3185">
+<![CDATA[ https://loadeu.exelator.com/load/?p=204&g=108&buid=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1 ]]>
+</Impression>
+<Impression id="dmp-2603232114-3249">
+<![CDATA[ https://ads.stickyadstv.com/data-registering?dataProviderId=3249&redirectId=1409 ]]>
+</Impression>
+<Impression id="dmp-2603232114-1586">
+<![CDATA[ https://loadr.exelator.com/load/?p=104&g=894&j=0 ]]>
+</Impression>
+<Impression id="2603243730">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayStarted&adId=2603243730&viewKey=1657291945770046-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271362&exAdId=508889_2603232114&impId=1&cb=7981162&ibpiv=bf14b2e6a99ba3862103819e9f43e804&ibp=c771f526fd86351b4a833a9c5b7c28ccf6ddfa3cb124ada688aa6b42087ab66f4bc4304bdbeef78802a68c76356554e833674a74734864a0d75a7656cccbdec2abb38f67cb580cff741e56c6a2eb8e6a013b96b55144e4d97478cbca9e984142e83853110ee7bb95a207845ab6a82d7e131c037aabef7b2eb49a402b43f1fed8&deviceIfa=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&campaignId=2601075058& ]]>
+</Impression>
+<Impression id="3rdparty-2603243730-0">
+<![CDATA[ https://s.update.stickyadstv.com/2/848488/analytics.gif?dt=8484881527175831722000&ui=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&ap=74519&sr=2057&pp=338897&si=25787922&pc=31271362&ti=1657291945770046-297&pv=3e16b3b7-a2c9-4bcd-8749-6bfb8f674e80&to=3&de=3&md=2 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://obo.moatads.com/pixel.gif?e=0&g=0&ac=1&bq=7&f=1&gh=0&hc=0&i=OBO_VAST_WRAPPER1&t=1657291945&de=844301210&vz=844301210&d=10406%3A126451%3A54248%3Avast&bo=undefined&bd=undefined&apif=7&zMoatOrigIKey=VID_DEEPINTENT_VIDEO_WRAPPER1&zMoatGSR=1&zMoatBID=fb4bd88c-4e09-42b3-b92a-eb56047397fd&zMoatTIME=1657291945809&zMoatCGRP=6664&obo=1&rai=ROKU_ADS_APP_ID&oa=[STOREID]&yd=[OMIDPARTNER]&zp=21&app=[APPBUNDLE]&gu=[PAGEURL]&id=0&ii=11&cdom=[DOMAIN]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Impression>
+<Impression id="SpringServe_Impression_1">
+<![CDATA[ https://vid-io-iad.springserve.com/vd/i?event=vast_impression&channel_name=90sthrowback&ip=65.255.91.172&rating=R&content_livestream=true&dnt=0&ua=Roku%2FDVP-11.0+%2811.0.0.4193-AE%29&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&uuid=137d032f-b32d-4577-acf0-494af5014607&device_make=Roku&lmt=0&content_genre=science+fiction&app_bundle=74519&did=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&_rcc=en.53199_bs.53263&d=&size=1280x720&id=672299&a_cc=rs.11313-s.667242-d.1012047-dc.119285_s.672299-d.1013219&cb=137d032f-b32d-4577-acf0-494af5014607&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&timestamp=1657291945782&aid=1109&hc=e78f327aae858349f2a386470fb39fb6&_pi=253531&_j= ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1gm0ht&client_id=4534&video_id=902260&channel_id=2752469&publisher_id=6210&placement_tag_id=0&project_state=2&r=1657291945967&placement_hash=16b2kr&action=init&ivc_exdata=iv_geo_dma%3D650%26iv_geo_country%3DUS%26iv_geo_city%3DRingwood%26iv_geo_state%3DOK%26iv_geo_zip%3D73768%26iv_geo_lat%3D36.3731%26iv_geo_lon%3D-98.274 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/visit.jpg?vstevt=2&tagtype=video&ctx=13672553&cmp=133869&sid=6210&plc=2764310&advid=4534&adsrv=118&crt=1h5n5l&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195&dvtagver=dvot_0.8.111_7342c59&vad=14000&dvp_zjsver=0.21.17&apifw=7&gdpr_consent=%24%7BGDPR_CONSENT_755%7D&vstvr=2.0-i&dvp_media=1&dvp_psf=0&app=[APPBUNDLE]&essd=[SERVERSIDE]&rtpbndl=ROKU_ADS_APP_ID ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=d46d07c0-aaca-4cc6-a498-ab5f71084195&el=https%3A%2F%2Frtr.innovid.com%2Fr1.61f31e28d0a111.58236472%3Bcb%3D844301210&ea=impression&cm114=1&cm115=28&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=2&cd170=118&cd188=nyc1&cd189=droplet&cd190=13672553&cd191=133869&cd192=6210&cd193=2764310&cd194=4534&cd196=1&cd141=7&cd142=%5BTIMESTAMP%5D&cd143=[TIMESTAMP]&z=[CACHEBUSTING] ]]>
+</Impression>
+<Creatives>
+<Creative id="1h5n5l">
+<Linear>
+<Duration>00:00:14</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1gm0ht&client_id=4534&video_id=902260&channel_id=2752469&publisher_id=6210&placement_tag_id=0&project_state=2&r=1657291945967&placement_hash=16b2kr&action=play&ivc_exdata=iv_geo_dma%3D650%26iv_geo_country%3DUS%26iv_geo_city%3DRingwood%26iv_geo_state%3DOK%26iv_geo_zip%3D73768%26iv_geo_lat%3D36.3731%26iv_geo_lon%3D-98.274 ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://ad.doubleclick.net/ddm/trackimp/N5622.3848558MATTERKIND/B26830646.327124379;dc_trk_aid=528816520;dc_trk_cid=171547142;ord=1657291945967;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;;ltd=? ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://secure.insightexpressai.com/adServer/adServerESI.aspx?script=false&bannerID=10505692&siteID=6210&creativeID=902260&placementID=2764310&rnd=1657291945967&redir=https://secure.insightexpressai.com/adserver/1pixel.gif ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1gm0ht&client_id=4534&video_id=902260&channel_id=2752469&publisher_id=6210&placement_tag_id=0&project_state=2&r=1657291945967&placement_hash=16b2kr&action=vpoint&event_id=percent&event_value=25&ivc_exdata=iv_geo_dma%3D650%26iv_geo_country%3DUS%26iv_geo_city%3DRingwood%26iv_geo_state%3DOK%26iv_geo_zip%3D73768%26iv_geo_lat%3D36.3731%26iv_geo_lon%3D-98.274 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1gm0ht&client_id=4534&video_id=902260&channel_id=2752469&publisher_id=6210&placement_tag_id=0&project_state=2&r=1657291945967&placement_hash=16b2kr&action=vpoint&event_id=percent&event_value=50&ivc_exdata=iv_geo_dma%3D650%26iv_geo_country%3DUS%26iv_geo_city%3DRingwood%26iv_geo_state%3DOK%26iv_geo_zip%3D73768%26iv_geo_lat%3D36.3731%26iv_geo_lon%3D-98.274 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1gm0ht&client_id=4534&video_id=902260&channel_id=2752469&publisher_id=6210&placement_tag_id=0&project_state=2&r=1657291945967&placement_hash=16b2kr&action=vpoint&event_id=percent&event_value=75&ivc_exdata=iv_geo_dma%3D650%26iv_geo_country%3DUS%26iv_geo_city%3DRingwood%26iv_geo_state%3DOK%26iv_geo_zip%3D73768%26iv_geo_lat%3D36.3731%26iv_geo_lon%3D-98.274 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://s.innovid.com/1x1.gif?project_hash=1gm0ht&client_id=4534&video_id=902260&channel_id=2752469&publisher_id=6210&placement_tag_id=0&project_state=2&r=1657291945967&placement_hash=16b2kr&action=vpoint&event_id=percent&event_value=100&ivc_exdata=iv_geo_dma%3D650%26iv_geo_country%3DUS%26iv_geo_city%3DRingwood%26iv_geo_state%3DOK%26iv_geo_zip%3D73768%26iv_geo_lat%3D36.3731%26iv_geo_lon%3D-98.274 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=4&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=6&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=8&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=10&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=0&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=22&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=23&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=30&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/event.png?vstevt=31&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=d46d07c0-aaca-4cc6-a498-ab5f71084195&el=https%3A%2F%2Frtr.innovid.com%2Fr1.61f31e28d0a111.58236472%3Bcb%3D844301210&ea=complete&cm114=1&cm115=28&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=2&cd170=118&cd188=nyc1&cd189=droplet&cd190=13672553&cd191=133869&cd192=6210&cd193=2764310&cd194=4534&cd196=1&cd141=7&cd142=%5BTIMESTAMP%5D&cd143=[TIMESTAMP]&z=[CACHEBUSTING] ]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=CREATIVE_VIEW ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=START ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=MIDPOINT ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=FIRST_QUARTILE ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=THIRD_QUARTILE ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=COMPLETE ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=MUTE ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=UNMUTE ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=PAUSE ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=REWIND ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=RESUME ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=FULLSCREEN ]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=EXPAND ]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=COLLAPSE ]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=ACCEPT_INVITATION ]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[ https://ipv6-beacon.deepintent.com/engagement?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809&event=CLOSE ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://dmp.truoptik.com/4eaf04b12a8ed0e4/sync.gif?ifa=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&ifa_type=sessionid&ifa_lmt=0&dm= ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603232114&viewKey=1657291945770056-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271378&exAdId=3301202_126451_10406_54248&impId=1&cb=3638611&seatId=10406&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=0&time=0&tagsArray=&ibp=5b48bd2f9315fdd591dad71bab0e4f30983b78b03dad7a342b3a5043a7b9cb73f9ef07b0a905b8980678eec99d4c2ba4847be6d70b02b9131721182e91c1517cf0609912339ac4a09426b51b8c575325dbb7fcd0d118c0f3846d113b1e343ddabcde649d2834e3d13cc657fa4be56c4f2a161630bb152e0e4543f16c481aa2fa7b313a631b87b1dddc6e28a43d2821cc& ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=1&q=0&lo=0&dc=1&ak=-&ac=1&bq=7&as=0&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=FREEWHEEL_SSP_OTT1&t=1657291945793&de=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&vz=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&d=123%3A338913%3A25787938%3A31271378&bo=2601063442&bd={dealid}&zMoatSDH=15&oa=74519&zMoatDevice={deviceid}&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603232114&viewKey=1657291945770056-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271378&exAdId=3301202_126451_10406_54248&impId=1&cb=9972402&seatId=10406&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=25&time=3&tagsArray=&ibp=5b48bd2f9315fdd591dad71bab0e4f30983b78b03dad7a342b3a5043a7b9cb73f9ef07b0a905b8980678eec99d4c2ba4847be6d70b02b9131721182e91c1517cf0609912339ac4a09426b51b8c575325dbb7fcd0d118c0f3846d113b1e343ddabcde649d2834e3d13cc657fa4be56c4f2a161630bb152e0e4543f16c481aa2fa7b313a631b87b1dddc6e28a43d2821cc& ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=2&q=1&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&dz=1&ef=3&eg=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=FREEWHEEL_SSP_OTT1&t=1657291945793&de=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&vz=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&d=123%3A338913%3A25787938%3A31271378&bo=2601063442&bd={dealid}&zMoatSDH=15&oa=74519&zMoatDevice={deviceid}&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603232114&viewKey=1657291945770056-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271378&exAdId=3301202_126451_10406_54248&impId=1&cb=676899&seatId=10406&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=50&time=7&tagsArray=&ibp=5b48bd2f9315fdd591dad71bab0e4f30983b78b03dad7a342b3a5043a7b9cb73f9ef07b0a905b8980678eec99d4c2ba4847be6d70b02b9131721182e91c1517cf0609912339ac4a09426b51b8c575325dbb7fcd0d118c0f3846d113b1e343ddabcde649d2834e3d13cc657fa4be56c4f2a161630bb152e0e4543f16c481aa2fa7b313a631b87b1dddc6e28a43d2821cc& ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=3&q=2&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=FREEWHEEL_SSP_OTT1&t=1657291945793&de=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&vz=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&d=123%3A338913%3A25787938%3A31271378&bo=2601063442&bd={dealid}&zMoatSDH=15&oa=74519&zMoatDevice={deviceid}&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603232114&viewKey=1657291945770056-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271378&exAdId=3301202_126451_10406_54248&impId=1&cb=4219004&seatId=10406&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=75&time=11&tagsArray=&ibp=5b48bd2f9315fdd591dad71bab0e4f30983b78b03dad7a342b3a5043a7b9cb73f9ef07b0a905b8980678eec99d4c2ba4847be6d70b02b9131721182e91c1517cf0609912339ac4a09426b51b8c575325dbb7fcd0d118c0f3846d113b1e343ddabcde649d2834e3d13cc657fa4be56c4f2a161630bb152e0e4543f16c481aa2fa7b313a631b87b1dddc6e28a43d2821cc& ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=4&q=3&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=FREEWHEEL_SSP_OTT1&t=1657291945793&de=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&vz=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&d=123%3A338913%3A25787938%3A31271378&bo=2601063442&bd={dealid}&zMoatSDH=15&oa=74519&zMoatDevice={deviceid}&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayEnd&adId=2603232114&viewKey=1657291945770056-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271378&exAdId=3301202_126451_10406_54248&impId=1&cb=7725536&seatId=10406&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=100&time=15&tagsArray=&ibp=5b48bd2f9315fdd591dad71bab0e4f30983b78b03dad7a342b3a5043a7b9cb73f9ef07b0a905b8980678eec99d4c2ba4847be6d70b02b9131721182e91c1517cf0609912339ac4a09426b51b8c575325dbb7fcd0d118c0f3846d113b1e343ddabcde649d2834e3d13cc657fa4be56c4f2a161630bb152e0e4543f16c481aa2fa7b313a631b87b1dddc6e28a43d2821cc& ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://px.moatads.com/pixel.gif?e=29&g=5&q=4&lo=0&dc=1&ak=-&ac=1&bq=7&as=1&ka=1&ag=0&an=0&gg=0&aj=1&hd=1&dz=1&ef=3&eg=3&eh=3&ei=3&ej=3&f=0&gh=1&gi=1&gf=1&dh=0&hc=1&i=FREEWHEEL_SSP_OTT1&t=1657291945793&de=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&vz=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&d=123%3A338913%3A25787938%3A31271378&bo=2601063442&bd={dealid}&zMoatSDH=15&oa=74519&zMoatDevice={deviceid}&ott=1&rai=ROKU_ADS_APP_ID&yd=[OMIDPARTNER]&zp=20&dMoatAppStoreURL=[STOREURL]&app=[APPBUNDLE]&uai=[UNIVERSALADID]&inst=[INVENTORYSTATE]&psz=[PLAYERSIZE]&pst=[PLAYERSTATE]&cs=0 ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603243730&viewKey=1657291945770046-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271362&exAdId=508889_2603232114&impId=1&cb=2708579&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=0&time=0&tagsArray=&ibp=c771f526fd86351b4a833a9c5b7c28ccf6ddfa3cb124ada688aa6b42087ab66f4bc4304bdbeef78802a68c76356554e833674a74734864a0d75a7656cccbdec2abb38f67cb580cff741e56c6a2eb8e6a013b96b55144e4d97478cbca9e984142e83853110ee7bb95a207845ab6a82d7e131c037aabef7b2eb49a402b43f1fed8& ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603243730&viewKey=1657291945770046-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271362&exAdId=508889_2603232114&impId=1&cb=8976940&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=25&time=3&tagsArray=&ibp=c771f526fd86351b4a833a9c5b7c28ccf6ddfa3cb124ada688aa6b42087ab66f4bc4304bdbeef78802a68c76356554e833674a74734864a0d75a7656cccbdec2abb38f67cb580cff741e56c6a2eb8e6a013b96b55144e4d97478cbca9e984142e83853110ee7bb95a207845ab6a82d7e131c037aabef7b2eb49a402b43f1fed8& ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603243730&viewKey=1657291945770046-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271362&exAdId=508889_2603232114&impId=1&cb=3367121&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=50&time=7&tagsArray=&ibp=c771f526fd86351b4a833a9c5b7c28ccf6ddfa3cb124ada688aa6b42087ab66f4bc4304bdbeef78802a68c76356554e833674a74734864a0d75a7656cccbdec2abb38f67cb580cff741e56c6a2eb8e6a013b96b55144e4d97478cbca9e984142e83853110ee7bb95a207845ab6a82d7e131c037aabef7b2eb49a402b43f1fed8& ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsSendReport&adId=2603243730&viewKey=1657291945770046-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271362&exAdId=508889_2603232114&impId=1&cb=364891&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=75&time=11&tagsArray=&ibp=c771f526fd86351b4a833a9c5b7c28ccf6ddfa3cb124ada688aa6b42087ab66f4bc4304bdbeef78802a68c76356554e833674a74734864a0d75a7656cccbdec2abb38f67cb580cff741e56c6a2eb8e6a013b96b55144e4d97478cbca9e984142e83853110ee7bb95a207845ab6a82d7e131c037aabef7b2eb49a402b43f1fed8& ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsDisplayEnd&adId=2603243730&viewKey=1657291945770046-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271362&exAdId=508889_2603232114&impId=1&cb=221800&ibpiv=bf14b2e6a99ba3862103819e9f43e804&displayPercentage=100&time=15&tagsArray=&ibp=c771f526fd86351b4a833a9c5b7c28ccf6ddfa3cb124ada688aa6b42087ab66f4bc4304bdbeef78802a68c76356554e833674a74734864a0d75a7656cccbdec2abb38f67cb580cff741e56c6a2eb8e6a013b96b55144e4d97478cbca9e984142e83853110ee7bb95a207845ab6a82d7e131c037aabef7b2eb49a402b43f1fed8& ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://vid-io-iad.springserve.com/vd/i?event=js_start&dtid=1013219&a_cc=rs.11313-s.667242-d.1012047-dc.119285_s.672299-d.1013219&cb=3843973613418&id=667242&aid=1&d=pluto.tv&w=1280&h=720&cc=US&uuid=3a15cda6-945e-4b74-ad04-dcf096524400&pp=&channel_name=90sthrowback&ip=65.255.91.172&rating=R&content_livestream=true&dnt=0&ua=Roku%2FDVP-11.0+%2811.0.0.4193-AE%29&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&uuid=137d032f-b32d-4577-acf0-494af5014607&device_make=Roku&lmt=0&content_genre=science+fiction&app_bundle=74519&did=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&_rcc=en.53199_bs.53263&ol=0&hc=e78f327aae858349f2a386470fb39fb6&_pi=253531&_j= ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://vid-io-iad.springserve.com/vd/i?event=js_first_quartile&dtid=1013219&a_cc=rs.11313-s.667242-d.1012047-dc.119285_s.672299-d.1013219&cb=3843973613418&id=667242&aid=1&d=pluto.tv&w=1280&h=720&cc=US&uuid=3a15cda6-945e-4b74-ad04-dcf096524400&pp=&channel_name=90sthrowback&ip=65.255.91.172&rating=R&content_livestream=true&dnt=0&ua=Roku%2FDVP-11.0+%2811.0.0.4193-AE%29&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&uuid=137d032f-b32d-4577-acf0-494af5014607&device_make=Roku&lmt=0&content_genre=science+fiction&app_bundle=74519&did=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&_rcc=en.53199_bs.53263&ol=0&hc=e78f327aae858349f2a386470fb39fb6&_pi=253531&_j= ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://vid-io-iad.springserve.com/vd/i?event=js_midpoint&dtid=1013219&a_cc=rs.11313-s.667242-d.1012047-dc.119285_s.672299-d.1013219&cb=3843973613418&id=667242&aid=1&d=pluto.tv&w=1280&h=720&cc=US&uuid=3a15cda6-945e-4b74-ad04-dcf096524400&pp=&channel_name=90sthrowback&ip=65.255.91.172&rating=R&content_livestream=true&dnt=0&ua=Roku%2FDVP-11.0+%2811.0.0.4193-AE%29&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&uuid=137d032f-b32d-4577-acf0-494af5014607&device_make=Roku&lmt=0&content_genre=science+fiction&app_bundle=74519&did=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&_rcc=en.53199_bs.53263&ol=0&hc=e78f327aae858349f2a386470fb39fb6&_pi=253531&_j= ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://vid-io-iad.springserve.com/vd/i?event=js_third_quartile&dtid=1013219&a_cc=rs.11313-s.667242-d.1012047-dc.119285_s.672299-d.1013219&cb=3843973613418&id=667242&aid=1&d=pluto.tv&w=1280&h=720&cc=US&uuid=3a15cda6-945e-4b74-ad04-dcf096524400&pp=&channel_name=90sthrowback&ip=65.255.91.172&rating=R&content_livestream=true&dnt=0&ua=Roku%2FDVP-11.0+%2811.0.0.4193-AE%29&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&uuid=137d032f-b32d-4577-acf0-494af5014607&device_make=Roku&lmt=0&content_genre=science+fiction&app_bundle=74519&did=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&_rcc=en.53199_bs.53263&ol=0&hc=e78f327aae858349f2a386470fb39fb6&_pi=253531&_j= ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://vid-io-iad.springserve.com/vd/i?event=js_complete&dtid=1013219&a_cc=rs.11313-s.667242-d.1012047-dc.119285_s.672299-d.1013219&cb=3843973613418&id=667242&aid=1&d=pluto.tv&w=1280&h=720&cc=US&uuid=3a15cda6-945e-4b74-ad04-dcf096524400&pp=&channel_name=90sthrowback&ip=65.255.91.172&rating=R&content_livestream=true&dnt=0&ua=Roku%2FDVP-11.0+%2811.0.0.4193-AE%29&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&uuid=137d032f-b32d-4577-acf0-494af5014607&device_make=Roku&lmt=0&content_genre=science+fiction&app_bundle=74519&did=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&_rcc=en.53199_bs.53263&ol=0&hc=e78f327aae858349f2a386470fb39fb6&_pi=253531&_j= ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://dts.innovid.com/clktru/action/vclk?project_hash=1gm0ht&client_id=4534&video_id=902260&channel_id=2752469&publisher_id=6210&placement_tag_id=0&project_state=2&r=1657291945967&placement_hash=16b2kr&action=clktru&click=https%3A%2F%2Fwww.astrazenecasamplecloset.com%2F%3Fsource%3DBRZ_N_H_2837%26umedium%3DDISPLAY%26uadpub%3D6442113%26ucampaign%3D26830646%26ucreative%3D171547142%26uplace%3D327124379%26outcome%3DHCP%26cmpid%3D1 ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ https://ad.doubleclick.net/ddm/trackclk/N5622.3848558MATTERKIND/B26830646.327124379;dc_trk_aid=528816520;dc_trk_cid=171547142;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;ltd= ]]>
+</ClickTracking>
+<ClickTracking>
+<![CDATA[ https://vtrk.doubleverify.com/?v=1&t=event&tid=ZW-12000000&ec=vast&cid=d46d07c0-aaca-4cc6-a498-ab5f71084195&el=https%3A%2F%2Frtr.innovid.com%2Fr1.61f31e28d0a111.58236472%3Bcb%3D844301210&ea=click&cm114=1&cm115=28&cd101=vast&cd102=src&cd111=inline&cd112=unwrapped&cd117=2&cd170=118&cd188=nyc1&cd189=droplet&cd190=13672553&cd191=133869&cd192=6210&cd193=2764310&cd194=4534&cd196=1&cd141=7&cd142=%5BTIMESTAMP%5D&cd143=[TIMESTAMP]&z=[CACHEBUSTING] ]]>
+</ClickTracking>
+<ClickTracking>
+<![CDATA[ https://ipv6-beacon.deepintent.com/click?id=fb4bd88c-4e09-42b3-b92a-eb56047397fd&ts=1657291945809 ]]>
+</ClickTracking>
+<ClickTracking>
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsClickThrough&adId=2603232114&viewKey=1657291945770056-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271378&exAdId=3301202_126451_10406_54248&impId=1&cb=6259876&seatId=10406& ]]>
+</ClickTracking>
+<ClickTracking>
+<![CDATA[ https://ads.stickyadstv.com/www/delivery/swfIndex.php?reqType=AdsClickThrough&adId=2603243730&viewKey=1657291945770046-297&sessionId=22431130f469af89c8f684fe9fffded9&zoneId=31271362&exAdId=508889_2603232114&impId=1&cb=7301758& ]]>
+</ClickTracking>
+<ClickTracking>
+<![CDATA[ https://vid-io-iad.springserve.com/vd/i?event=js_click&dtid=1013219&a_cc=rs.11313-s.667242-d.1012047-dc.119285_s.672299-d.1013219&cb=2527707367421&id=667242&aid=1&d=pluto.tv&w=1280&h=720&cc=US&uuid=3a15cda6-945e-4b74-ad04-dcf096524400&pp=&channel_name=90sthrowback&ip=65.255.91.172&rating=R&content_livestream=true&dnt=0&ua=Roku%2FDVP-11.0+%2811.0.0.4193-AE%29&ssid=3a15cda6-945e-4b74-ad04-dcf096524400.1657291945782&uuid=137d032f-b32d-4577-acf0-494af5014607&device_make=Roku&lmt=0&content_genre=science+fiction&app_bundle=74519&did=77bd1c7c-4bf9-5ed8-afed-cb13a48a6ca1&_rcc=en.53199_bs.53263&ol=0&hc=e78f327aae858349f2a386470fb39fb6&_pi=253531&_j= ]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile bitrate="800" delivery="progressive" height="360" type="video/mp4" width="640">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/2_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="400" delivery="progressive" height="360" type="video/mp4" width="640">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/10_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="2000" delivery="progressive" height="720" type="video/mp4" width="1280">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/11_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="4000" delivery="progressive" height="1080" type="video/mp4" width="1920">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/13_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="20000" delivery="progressive" height="1080" type="video/mp4" width="1920">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/19_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="1350" delivery="progressive" height="540" type="video/mp4" width="960">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/25_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="700" delivery="progressive" height="480" type="video/mp4" width="854">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/36_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="750" delivery="progressive" height="432" type="video/mp4" width="768">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/37_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="4125" delivery="progressive" height="720" type="video/mp4" width="1280">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/52_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="5000" delivery="progressive" height="360" type="video/mp4" width="640">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/63_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="7000" delivery="progressive" height="360" type="video/mp4" width="640">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/64_source_133869_690450.mp4 ]]>
+</MediaFile>
+<MediaFile bitrate="6000" delivery="progressive" height="360" type="video/mp4" width="640">
+<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/65_source_133869_690450.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="AdVerifications">
+<AdVerifications>
+<Verification vendor="doubleverify.com-omid">
+<JavaScriptResource apiFramework="omid" browserOptional="true">
+<![CDATA[ https://cdn.doubleverify.com/dvtp_src.js#vendor_key=doubleverify.com-omid ]]>
+</JavaScriptResource>
+<TrackingEvents>
+<Tracking event="verificationNotExecuted">
+<![CDATA[ https://tpsc-video-ue.doubleverify.com/visit.jpg?verr=[REASON]&tagtype=video&ctx=818052&cmp=DV064005&sid=123&plc=verificationRejection&advid=818053&crt=omidVerificationNotExecuted&dvtagver=dvot_0.8.111_7342c59&vasttrkevt=impression&dvp_ctx=13672553&dvp_cmp=133869&dvp_sid=6210&dvp_plc=2764310&dvp_advid=4534&dvp_crt=1h5n5l&adsrv=118&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195&dvp_zjsver=0.21.17&apifw=7&gdpr_consent=%24%7BGDPR_CONSENT_755%7D&vstvr=2.0-i&dvp_media=1&dvp_psf=0 ]]>
+</Tracking>
+</TrackingEvents>
+<VerificationParameters>
+<![CDATA[ tagtype=video&msrapi=jsOmid&ctx=13672553&cmp=133869&sid=6210&plc=2764310&advid=4534&adsrv=118&crt=1h5n5l&dup=d46d07c0-aaca-4cc6-a498-ab5f71084195&dvtagver=dvot_0.8.111_7342c59&blk=0&mon=1&dvp_zjsver=0.21.17&apifw=7&gdpr_consent=${GDPR_CONSENT_755}&vstvr=2.0-i&dvp_media=1&dvp_psf=0&vidreg=ue ]]>
+</VerificationParameters>
+</Verification>
+</AdVerifications>
+</Extension>
+<Extension type="springserve">
+<SpringServeCreativeId>e78f327aae858349f2a386470fb39fb6</SpringServeCreativeId>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
