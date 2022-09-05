@@ -242,40 +242,10 @@
 </ClickTracking>
 </VideoClicks>
 <MediaFiles>
-<MediaFile bitrate="800" delivery="progressive" height="640" type="video/mp4" width="360">
+<MediaFile bitrate="800" delivery="progressive" height="500" type="video/mp4" width="800">
 <![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/2_source_133869_690450.mp4 ]]>
 </MediaFile>
-<MediaFile bitrate="400" delivery="progressive" height="640" type="video/mp4" width="360">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/10_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="2000" delivery="progressive" height="1280" type="video/mp4" width="720">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/11_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="4000" delivery="progressive" height="1920" type="video/mp4" width="1080">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/13_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="20000" delivery="progressive" height="1920" type="video/mp4" width="1080">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/19_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="1350" delivery="progressive" height="960" type="video/mp4" width="540">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/25_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="700" delivery="progressive" height="854" type="video/mp4" width="480">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/36_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="750" delivery="progressive" height="768" type="video/mp4" width="432">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/37_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="4125" delivery="progressive" height="1280" type="video/mp4" width="720">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/52_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="5000" delivery="progressive" height="640" type="video/mp4" width="360">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/63_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="7000" delivery="progressive" height="640" type="video/mp4" width="360">
-<![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/64_source_133869_690450.mp4 ]]>
-</MediaFile>
-<MediaFile bitrate="6000" delivery="progressive" height="640" type="video/mp4" width="360">
+<MediaFile bitrate="6000" delivery="progressive" height="500" type="video/mp4" width="800">
 <![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/65_source_133869_690450.mp4 ]]>
 </MediaFile>
 </MediaFiles>
