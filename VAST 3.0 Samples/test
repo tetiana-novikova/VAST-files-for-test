@@ -242,10 +242,10 @@
 </ClickTracking>
 </VideoClicks>
 <MediaFiles>
-<MediaFile bitrate="800" delivery="progressive" height="360" type="video/mp4" width="640">
+<MediaFile bitrate="800" delivery="progressive" height="640" type="video/mp4" width="360">
 <![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/2_source_133869_690450.mp4 ]]>
 </MediaFile>
-<MediaFile bitrate="400" delivery="progressive" height="360" type="video/mp4" width="640">
+<MediaFile bitrate="400" delivery="progressive" height="640" type="video/mp4" width="360">
 <![CDATA[ https://s-static.innovid.com/media/encoded/05_22/524891/10_source_133869_690450.mp4 ]]>
 </MediaFile>
 <MediaFile bitrate="2000" delivery="progressive" height="720" type="video/mp4" width="1280">
