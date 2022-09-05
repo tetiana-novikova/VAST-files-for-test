@@ -11,7 +11,7 @@
             <Creatives>
                 <Creative sequence="1" id="12345">
                     <Linear skipoffset="00:00:02">
-                        <Duration>00:00:20.54</Duration>
+                        <Duration>00:00:20.540</Duration>
                         <TrackingEvents>
                             <Tracking id="prog_1" event="progress" offset="00:00:10.000">
                                 <![CDATA[https://syndication.myadserver.com/vregister.php?a=vview&tracking_event=progress&progress=00:00:10.000&idzone=22222&data=abcd]]></Tracking>
